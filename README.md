@@ -17,7 +17,7 @@ Hi~ o(*￣▽￣*)ブ
 
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/Gan-cell888/github-profile/main/github-metrics.svg" style="width:50%;" />
+<img align="right" src="https://raw.githubusercontent.com/Gan-cell888/Gan-cell888/main/github-metrics.svg" style="width:50%;" />
 
 ### 💻 Common using languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
