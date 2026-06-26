@@ -24,7 +24,7 @@ jobs:
           config_timezone: Asia/Shanghai
           config_display: large
           config_padding: 6%, 6%
-          config_order: base.repositories+base.activity+base.community+base.repositories+base.metadata
+          config_animations: yes
           plugins_errors_fatal: false
           base: header+repositories+metadata
 
@@ -43,6 +43,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: Gan-cell888/Gan-cell888
           plugin_repositories_order: stars
+          plugin_repositories_forks: yes
 
           # 编码习惯
           plugin_habits: yes
@@ -57,3 +58,8 @@ jobs:
           # 最近活动
           plugin_followup: yes
           plugin_followup_sections: repositories
+
+          # 贡献者
+          plugin_contributors: yes
+          plugin_contributors_sections: base
+          plugin_contributors_own: yes
