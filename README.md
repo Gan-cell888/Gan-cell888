@@ -59,7 +59,7 @@
 ## 📊 GitHub 统计
 
 <!-- GitHub Stats + Streak -->
-<img width="49%" src="https://github-readme-stats-beta-rouge.vercel.app/api?username=Gan-cell888&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=7c3aed&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-beta-rouge.vercel.app/api?username=Gan-cell888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f46e5&icon_color=7c3aed&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gan-cell888&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f46e5&ring=7c3aed&fire=ec4899&currStreakLabel=4f46e5&sideLabels=7c3aed" />
 
 <br/>
